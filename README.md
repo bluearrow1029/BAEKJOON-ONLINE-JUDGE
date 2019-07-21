@@ -1,8 +1,4 @@
-"# BAEKJOON-ONLINE-JUDGE"
-
-# BAEKJOON-ONLINE-JUDGE
-
-## 백준 온라인저지 문제풀기
+# 백준 온라인저지 문제풀기
 
 https://www.acmicpc.net/
 
