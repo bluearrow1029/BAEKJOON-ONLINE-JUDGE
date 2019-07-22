@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/1001
+//문제 출처: https://www.acmicpc.net/problem/1001
 #include <stdio.h>
 
 int main()
